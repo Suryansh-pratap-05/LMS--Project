@@ -8,7 +8,7 @@ This repository is prepared for project submission and includes:
 
 - Complete frontend and backend source code
 - Project report inside the `Document/` folder
-- Demo folder for the project walkthrough video
+- Demo instructions for the project walkthrough video
 
 ## Tech Stack
 
@@ -136,6 +136,6 @@ Frontend runs on `http://localhost:5173`
 
 ## Submission Notes
 
-- Put the final project report PDF in `Document/`
-- Put the demo video in `Demo/`
-- Do not upload `node_modules`, virtual environments, or secret `.env` files
+- The final project report PDF is stored in `Document/`
+- If your demo video is larger than GitHub's file limit, upload it to Google Drive or YouTube and place the link in `Demo/README.md`
+- Do not upload `node_modules`, virtual environments, raw `.mp4` files over GitHub's limit, or secret `.env` files
